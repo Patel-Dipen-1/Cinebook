@@ -1,0 +1,40 @@
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 7
+Transaction ID: TXN17702128864430
+Event Type: CONCERT
+Event Name: Arijit Singh Live
+Venue: Music Arena
+User Email: pl@gmail.com
+Show Date: 2026-02-05
+Show Time: 7:00 PM
+Tickets Booked: 10
+Seat Numbers: C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+Total Amount: ₹10000
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 19:18:06
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 17
+Transaction ID: TXN17703078051202
+Event Type: CONCERT
+Event Name: Rahman Live Concert Experience
+Venue: Symphony Hall Paldi
+User Email: gg@gmail.com
+Show Date: 2026-02-06
+Show Time: 9:00 PM
+Tickets Booked: 1
+Seat Numbers: M1
+Total Amount: ₹1500
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 21:40:05
+============================================================
+

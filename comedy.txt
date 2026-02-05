@@ -1,0 +1,80 @@
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 2
+Transaction ID: TXN17702117219825
+Event Type: COMEDY
+Event Name: Pretentious Movie Reviews
+Venue: Stand-Up Central
+User Email: g@gmail.com
+Show Date: 2026-02-04
+Show Time: 6:00 PM
+Tickets Booked: 1
+Seat Numbers: S1
+Total Amount: ₹550
+Payment Method: Net Banking
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 18:58:41
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 6
+Transaction ID: TXN17702128258234
+Event Type: COMEDY
+Event Name: Pretentious Movie Reviews
+Venue: Comedy Club Ahmedabad
+User Email: pl@gmail.com
+Show Date: 2026-02-05
+Show Time: 6:30 PM
+Tickets Booked: 8
+Seat Numbers: S1, S2, S3, S4, S5, S6, S7, S8
+Total Amount: ₹4400
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 19:17:05
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 11
+Transaction ID: TXN17703054569926
+Event Type: COMEDY
+Event Name: Thoda Saaf Bol
+Venue: Humor Hub Bopal
+User Email: dddsss@gmail.com
+Show Date: 2026-02-05
+Show Time: 7:00 PM
+Tickets Booked: 4
+Seat Numbers: S1, S2, S3, S4
+Total Amount: ₹2000
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 21:00:56
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 16
+Transaction ID: TXN17703075245098
+Event Type: COMEDY
+Event Name: Thoda Saaf Bol
+Venue: Stand-Up Central Paldi
+User Email: gg@gmail.com
+Show Date: 2026-02-05
+Show Time: 7:00 PM
+Tickets Booked: 1
+Seat Numbers: C1
+Total Amount: ₹500
+Payment Method: Credit/Debit Card
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 21:35:24
+============================================================
+
