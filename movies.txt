@@ -1,0 +1,360 @@
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 3
+Transaction ID: TXN17702126074773
+Event Type: MOVIE
+Event Name: Titanic
+Venue: INOX R City Mall
+User Email: pl@gmail.com
+Show Date: 2026-02-04
+Show Time: 2:00 PM
+Tickets Booked: 5
+Seat Numbers: A1, A2, B3, C4, D5
+Total Amount: ₹1920
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 19:13:27
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 4
+Transaction ID: TXN17702126582496
+Event Type: MOVIE
+Event Name: Titanic
+Venue: INOX R City Mall
+User Email: pl@gmail.com
+Show Date: 2026-02-05
+Show Time: 8:45 PM
+Tickets Booked: 4
+Seat Numbers: A1, B2, C3, D4
+Total Amount: ₹1440
+Payment Method: Credit/Debit Card
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 19:14:18
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 5
+Transaction ID: TXN17702127198790
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Himalaya Mall
+User Email: pl@gmail.com
+Show Date: 2026-02-06
+Show Time: 5:30 PM
+Tickets Booked: 4
+Seat Numbers: A1, B2, C3, D4
+Total Amount: ₹1485
+Payment Method: Net Banking
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 19:15:19
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 1
+Transaction ID: TXN17702201378417
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Thaltej Mall
+User Email: dS@gmail.com
+Show Date: 2026-02-04
+Show Time: 5:30 PM
+Tickets Booked: 10
+Seat Numbers: A1, A2, A3, B4, B5, B6, C7, C8, C9, C10
+Total Amount: ₹4477
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 21:18:57
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 2
+Transaction ID: TXN17702202109358
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Thaltej Mall
+User Email: dS@gmail.com
+Show Date: 2026-02-05
+Show Time: 2:00 PM
+Tickets Booked: 1
+Seat Numbers: A1
+Total Amount: ₹555
+Payment Method: Net Banking
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 21:20:10
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 3
+Transaction ID: TXN17702202919242
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Thaltej Mall
+User Email: dS@gmail.com
+Show Date: 2026-02-04
+Show Time: 2:00 PM
+Tickets Booked: 8
+Seat Numbers: A1, A2, B3, B4, C5, C6, D7, D8
+Total Amount: ₹3330
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 21:21:31
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 4
+Transaction ID: TXN17702204606346
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Thaltej Mall
+User Email: dS@gmail.com
+Show Date: 2026-02-04
+Show Time: 2:00 PM
+Tickets Booked: 40
+Seat Numbers: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, B11, B12, B13, B14, B15, B16, B17, B18, B19, B20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40
+Total Amount: ₹16650
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 21:24:20
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 8
+Transaction ID: TXN17702270312953
+Event Type: MOVIE
+Event Name: Titanic
+Venue: Rajhans Paldi
+User Email: k@gmail.com
+Show Date: 2026-02-04
+Show Time: 5:30 PM
+Tickets Booked: 6
+Seat Numbers: A1, A2, A3, A4, D5, D6
+Total Amount: ₹1824
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 23:13:51
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 9
+Transaction ID: TXN17702296303624
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Paldi Central
+User Email: pdd@gmail.com
+Show Date: 2026-02-04
+Show Time: 2:00 PM
+Tickets Booked: 5
+Seat Numbers: A1, A2, B3, B4, D5
+Total Amount: ₹2108
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 23:57:10
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 10
+Transaction ID: TXN17702297231336
+Event Type: MOVIE
+Event Name: Toy Story
+Venue: Rajhans Paldi
+User Email: pdd@gmail.com
+Show Date: 2026-02-04
+Show Time: 1:30 PM
+Tickets Booked: 4
+Seat Numbers: A1, B2, C3, D4
+Total Amount: ₹1080
+Payment Method: Credit/Debit Card
+Payment Status: COMPLETED
+Booking Date: 2026-02-04 23:58:43
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 7
+Transaction ID: TXN17702969408741
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Paldi Central
+User Email: b@gmail.com
+Show Date: 2026-02-05
+Show Time: 2:00 PM
+Tickets Booked: 4
+Seat Numbers: S1, S2, S3, S4
+Total Amount: ₹1360
+Payment Method: Net Banking
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 18:39:00
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 8
+Transaction ID: TXN17702970022777
+Event Type: MOVIE
+Event Name: Mission Impossible
+Venue: Miraj Paldi
+User Email: b@gmail.com
+Show Date: 2026-02-05
+Show Time: 2:45 PM
+Tickets Booked: 5
+Seat Numbers: S1, S2, S3, S4, S5
+Total Amount: ₹1300
+Payment Method: Credit/Debit Card
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 18:40:02
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 9
+Transaction ID: TXN17702970429127
+Event Type: MOVIE
+Event Name: Golmaal
+Venue: Cinepolis Paldi
+User Email: b@gmail.com
+Show Date: 2026-02-05
+Show Time: 4:15 PM
+Tickets Booked: 5
+Seat Numbers: S1, S2, S3, S4, S5
+Total Amount: ₹1450
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 18:40:42
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 10
+Transaction ID: TXN17702970836812
+Event Type: MOVIE
+Event Name: 3 Idiots
+Venue: PVR Paldi Central
+User Email: b@gmail.com
+Show Date: 2026-02-05
+Show Time: 5:45 PM
+Tickets Booked: 6
+Seat Numbers: S1, S2, S3, S4, S5, S6
+Total Amount: ₹2040
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 18:41:23
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 12
+Transaction ID: TXN17703055777926
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Bopal Square
+User Email: tt@gmail.com
+Show Date: 2026-02-06
+Show Time: 5:30 PM
+Tickets Booked: 10
+Seat Numbers: A1, A2, A3, A4, B5, B6, B7, C8, C9, C10
+Total Amount: ₹4410
+Payment Method: Credit/Debit Card
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 21:02:57
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 13
+Transaction ID: TXN17703059653146
+Event Type: MOVIE
+Event Name: Titanic
+Venue: PVR Paldi Central
+User Email: gg@gmail.com
+Show Date: 2026-02-05
+Show Time: 5:30 PM
+Tickets Booked: 5
+Seat Numbers: S1, S2, S3, S4, S5
+Total Amount: ₹1700
+Payment Method: UPI
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 21:09:25
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 14
+Transaction ID: TXN17703060508067
+Event Type: MOVIE
+Event Name: Fast & Furious 9
+Venue: Rajhans Paldi
+User Email: gg@gmail.com
+Show Date: 2026-02-06
+Show Time: 12:15 PM
+Tickets Booked: 4
+Seat Numbers: S1, S2, S3, S4
+Total Amount: ₹960
+Payment Method: Credit/Debit Card
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 21:10:50
+============================================================
+
+
+============================================================
+SMARTSHOW ULTIMATE - TICKET CONFIRMATION
+============================================================
+Booking ID: 15
+Transaction ID: TXN17703061049758
+Event Type: MOVIE
+Event Name: Fukrey
+Venue: Rajhans Paldi
+User Email: gg@gmail.com
+Show Date: 2026-02-07
+Show Time: 1:10 PM
+Tickets Booked: 6
+Seat Numbers: S1, S2, S3, S4, S5, S6
+Total Amount: ₹1440
+Payment Method: Net Banking
+Payment Status: COMPLETED
+Booking Date: 2026-02-05 21:11:44
+============================================================
+
